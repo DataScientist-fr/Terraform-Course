@@ -3,6 +3,7 @@
 ## Replacement to do before starting the lab
 - In file `terraform.tfvars` : 
     - `resource_group` : Create a unique name for your resource group.
+    - `storage_account_name` : Create a unique name for your resource group.
 
 ## Steps to follow
 - Run `terraform init` to initialize the project.
